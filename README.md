@@ -1,2 +1,2 @@
 # Update-Moves-PBS
-Uses PokeAPI and PBS files to update learnsets for Pokémon essentials' games. 
+Nossa irmão, faz uma pancada de coisa essa parada ae.
